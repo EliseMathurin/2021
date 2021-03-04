@@ -14,7 +14,7 @@
 
 ## Invited speakers: 
 
-* 09:00	- 09:45   **Pavel Braslavski** LOL NLP: a short survey of computational humor
+* 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russia, LOL NLP: a short survey of computational humor
 
 * 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation
 
